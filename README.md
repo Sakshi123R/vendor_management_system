@@ -79,3 +79,42 @@ http://localhost:8000/vendors/  --for vendor list
 
 http://localhost:8000/admin  --for admin
 ```
+
+# Screenshots
+# Vendor_list.html - One can create new vendor here.
+<img width="1080" alt="image" src="https://github.com/Sakshi123R/vendor_management_system/assets/37693165/708c618e-e0de-4464-88f5-d83868941725">
+# Displaying vendors profiles generated through faker library.
+<img width="1080" alt="image" src="https://github.com/Sakshi123R/vendor_management_system/assets/37693165/2fea757b-f97a-42df-bfbe-91891c6a58e6">
+# Updating contact details of Brooke Evans.
+<img width="1080" alt="image" src="https://github.com/Sakshi123R/vendor_management_system/assets/37693165/a067ab9e-e2dc-47c2-8d7b-fd89179e12cd">
+# Contact details updated
+<img width="1080" alt="image" src="https://github.com/Sakshi123R/vendor_management_system/assets/37693165/fb2325a1-61e8-4cf4-b59b-b74c6bcae021">
+# Create new order here.
+<img width="1080" alt="image" src="https://github.com/Sakshi123R/vendor_management_system/assets/37693165/69073336-20a0-4ef1-82ce-dc6190638305">
+# Deleting vendor Nathon Hansen
+<img width="1080" alt="image" src="https://github.com/Sakshi123R/vendor_management_system/assets/37693165/d072bb94-b316-443f-8d5d-275ef75d3544">
+# Deleted
+<img width="1080" alt="image" src="https://github.com/Sakshi123R/vendor_management_system/assets/37693165/ad78abb4-66b7-44dc-946e-f4c625b1c77b">
+# Searching records that exists having north
+<img width="1080" alt="image" src="https://github.com/Sakshi123R/vendor_management_system/assets/37693165/b3465216-c352-4e32-9ee1-d3c7f9a79134">
+# Fethched one record of a vendor.
+<img width="1080" alt="image" src="https://github.com/Sakshi123R/vendor_management_system/assets/37693165/6cc17274-89a5-4f86-a618-08a96b1e16e4">
+# Admin page diaplaying details of vendors.
+<img width="1080" alt="image" src="https://github.com/Sakshi123R/vendor_management_system/assets/37693165/ff7629e2-36f6-47a0-9329-bdf90a2760d2">
+# Admin page diaplaying details of purchase orders.
+<img width="1080" alt="image" src="https://github.com/Sakshi123R/vendor_management_system/assets/37693165/b34e7cb4-6554-4852-bf70-7dcee3b50201">
+# Displaying orders here.
+<img width="1080" alt="image" src="https://github.com/Sakshi123R/vendor_management_system/assets/37693165/aa74d3ce-a324-4204-9af1-2ede700b617f">
+# NOTE- We can also perform crud operations in this page as well.
+
+
+
+
+
+
+
+
+
+
+
+
