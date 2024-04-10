@@ -107,6 +107,10 @@ http://localhost:8000/admin  --for admin
 <img width="1080" alt="image" src="https://github.com/Sakshi123R/vendor_management_system/assets/37693165/aa74d3ce-a324-4204-9af1-2ede700b617f">
 # NOTE- We can also perform crud operations in this page as well.
 
+# For more queries mail me- sakshirekhikandhari@gmail.com,
+                            rekhisakshi8@gmail.com
+
+
 
 
 
